@@ -1,7 +1,7 @@
  
 import tkinter as tk
 from tkinter import ttk
-from run_module import RunModule
+from TestUniversity.run_module import RunModule
 from currency_module import CurrencyModule
 
 class App(tk.Tk):
